@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Docker
+*.log
+*.pid
+
+# Byte-compiled files
+*.pyo
+
+# Pytest
+.pytest_cache/
